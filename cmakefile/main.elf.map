@@ -61,9 +61,6 @@ Discarded input sections
  .text          0x0000000000000000        0x0 CMakeFiles/main.dir/main.c.obj
  .data          0x0000000000000000        0x0 CMakeFiles/main.dir/main.c.obj
  .bss           0x0000000000000000        0x0 CMakeFiles/main.dir/main.c.obj
- .comment       0x0000000000000000       0x34 CMakeFiles/main.dir/main.c.obj
- .ARM.attributes
-                0x0000000000000000       0x32 CMakeFiles/main.dir/main.c.obj
  .text          0x0000000000000000        0x0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
  .data          0x0000000000000000        0x0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
  .bss           0x0000000000000000        0x0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
@@ -131,8 +128,6 @@ Discarded input sections
                 0x0000000000000000       0x7c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
  .text.gpio_set_input_enabled
                 0x0000000000000000       0x28 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
- .text.gpio_init
-                0x0000000000000000       0x3c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
  .text.gpio_deinit
                 0x0000000000000000       0x30 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
  .text.gpio_init_mask
@@ -141,9 +136,6 @@ Discarded input sections
                 0x0000000000000000        0x8 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
  .bss.raw_irq_mask
                 0x0000000000000000        0x8 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
- .comment       0x0000000000000000       0x34 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
- .ARM.attributes
-                0x0000000000000000       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
  .text          0x0000000000000000        0x0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
  .data          0x0000000000000000        0x0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
  .bss           0x0000000000000000        0x0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
@@ -312,12 +304,8 @@ Discarded input sections
                 0x0000000000000000       0x8c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
  .text.alarm_pool_dump
                 0x0000000000000000       0x34 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
- .text.sleep_until
-                0x0000000000000000       0xc4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
  .text.sleep_us
                 0x0000000000000000       0x24 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
- .text.sleep_ms
-                0x0000000000000000       0x34 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
  .rodata.at_the_end_of_time
                 0x0000000000000000        0x8 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
  .rodata.nil_time
@@ -353,8 +341,6 @@ Discarded input sections
                 0x0000000000000000       0x54 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
  .text.busy_wait_ms
                 0x0000000000000000       0x88 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
- .text.busy_wait_until
-                0x0000000000000000       0x20 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
  .text.hardware_alarm_force_irq
                 0x0000000000000000       0x3c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
  .text          0x0000000000000000        0x0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_util/datetime.c.obj
@@ -799,10 +785,6 @@ Discarded input sections
  .text          0x0000000000000000        0x0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
  .data          0x0000000000000000        0x0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
  .bss           0x0000000000000000        0x0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
- .text.__aeabi_lmul
-                0x0000000000000000       0x32 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
- .ARM.attributes
-                0x0000000000000000       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
  .text          0x0000000000000000        0x0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
  .data          0x0000000000000000        0x0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
  .bss           0x0000000000000000        0x0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
@@ -1151,9 +1133,9 @@ Discarded input sections
  .comment       0x0000000000000000       0x34 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj
  .ARM.attributes
                 0x0000000000000000       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj
- .text          0x0000000000000000        0x0 /tmp/cc83Wx1B.o
- .data          0x0000000000000000        0x0 /tmp/cc83Wx1B.o
- .bss           0x0000000000000000        0x0 /tmp/cc83Wx1B.o
+ .text          0x0000000000000000        0x0 /tmp/ccMZjX40.o
+ .data          0x0000000000000000        0x0 /tmp/ccMZjX40.o
+ .bss           0x0000000000000000        0x0 /tmp/ccMZjX40.o
  .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
  .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
  .text          0x0000000000000000       0x10 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-atexit.o)
@@ -1417,11 +1399,11 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nof
 .boot2          0x0000000010000000      0x100
                 0x0000000010000000                __boot2_start__ = .
  *(.boot2)
- .boot2         0x0000000010000000      0x100 /tmp/cc83Wx1B.o
+ .boot2         0x0000000010000000      0x100 /tmp/ccMZjX40.o
                 0x0000000010000100                __boot2_end__ = .
                 0x0000000000000001                ASSERT (((__boot2_end__ - __boot2_start__) == 0x100), ERROR: Pico second stage bootloader must be 256 bytes in size)
 
-.text           0x0000000010000100     0x1cb8
+.text           0x0000000010000100     0x1e60
                 0x0000000010000100                __logical_binary_start = .
  *(.vectors)
  .vectors       0x0000000010000100       0xd4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
@@ -1482,179 +1464,197 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nof
                 0x00000000100002b8                _init
  *(EXCLUDE_FILE(*libm.a: *libc.a:*lib_a-mem*.o *libgcc.a:) .text*)
  .text          0x00000000100002bc       0x98 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text.startup.main
+                0x0000000010000354       0x24 CMakeFiles/main.dir/main.c.obj
+                0x0000000010000354                main
+ .text.gpio_init
+                0x0000000010000378       0x3c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
+                0x0000000010000378                gpio_init
  .text.running_on_fpga
-                0x0000000010000354       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
-                0x0000000010000354                running_on_fpga
+                0x00000000100003b4       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
+                0x00000000100003b4                running_on_fpga
  .text.hw_claim_or_assert
-                0x0000000010000364       0x44 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
-                0x0000000010000364                hw_claim_or_assert
+                0x00000000100003c4       0x44 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
+                0x00000000100003c4                hw_claim_or_assert
  .text.spin_locks_reset
-                0x00000000100003a8       0x1c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
-                0x00000000100003a8                spin_locks_reset
+                0x0000000010000408       0x1c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+                0x0000000010000408                spin_locks_reset
  .text.next_striped_spin_lock_num
-                0x00000000100003c4       0x18 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
-                0x00000000100003c4                next_striped_spin_lock_num
+                0x0000000010000424       0x18 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+                0x0000000010000424                next_striped_spin_lock_num
  .text.irq_set_enabled
-                0x00000000100003dc       0x24 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x00000000100003dc                irq_set_enabled
+                0x000000001000043c       0x24 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x000000001000043c                irq_set_enabled
  .text.irq_get_vtable_handler
-                0x0000000010000400       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x0000000010000400                irq_get_vtable_handler
+                0x0000000010000460       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010000460                irq_get_vtable_handler
  .text.irq_set_exclusive_handler
-                0x0000000010000410       0x54 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x0000000010000410                irq_set_exclusive_handler
+                0x0000000010000470       0x54 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010000470                irq_set_exclusive_handler
  .text.irq_remove_handler
-                0x0000000010000464      0x1b0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x0000000010000464                irq_remove_handler
+                0x00000000100004c4      0x1b0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x00000000100004c4                irq_remove_handler
  .text.irq_add_tail_to_free_list
-                0x0000000010000614       0xb4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x0000000010000614                irq_add_tail_to_free_list
+                0x0000000010000674       0xb4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010000674                irq_add_tail_to_free_list
  .text.irq_init_priorities
-                0x00000000100006c8       0x24 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x00000000100006c8                irq_init_priorities
+                0x0000000010000728       0x24 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010000728                irq_init_priorities
  .text.lock_init
-                0x00000000100006ec       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_sync/lock_core.c.obj
-                0x00000000100006ec                lock_init
+                0x000000001000074c       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_sync/lock_core.c.obj
+                0x000000001000074c                lock_init
  .text.mutex_init
-                0x00000000100006fc       0x1c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_sync/mutex.c.obj
-                0x00000000100006fc                mutex_init
+                0x000000001000075c       0x1c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_sync/mutex.c.obj
+                0x000000001000075c                mutex_init
  .text.recursive_mutex_init
-                0x0000000010000718       0x1c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_sync/mutex.c.obj
-                0x0000000010000718                recursive_mutex_init
+                0x0000000010000778       0x1c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_sync/mutex.c.obj
+                0x0000000010000778                recursive_mutex_init
  .text.timer_pool_entry_comparator
-                0x0000000010000734       0x34 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
-                0x0000000010000734                timer_pool_entry_comparator
+                0x0000000010000794       0x34 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010000794                timer_pool_entry_comparator
  .text.sleep_until_callback
-                0x0000000010000768       0x30 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
+                0x00000000100007c8       0x30 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
  .text.add_alarm_under_lock.isra.0
-                0x0000000010000798      0x100 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
+                0x00000000100007f8      0x100 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
  .text.alarm_pool_alarm_callback
-                0x0000000010000898      0x1bc CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
+                0x00000000100008f8      0x1bc CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
  .text.alarm_pool_init_default
-                0x0000000010000a54       0x6c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
-                0x0000000010000a54                alarm_pool_init_default
+                0x0000000010000ab4       0x6c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010000ab4                alarm_pool_init_default
  .text.alarm_pool_add_alarm_at
-                0x0000000010000ac0      0x178 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
-                0x0000000010000ac0                alarm_pool_add_alarm_at
+                0x0000000010000b20      0x178 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010000b20                alarm_pool_add_alarm_at
+ .text.sleep_until
+                0x0000000010000c98       0xc4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010000c98                sleep_until
+ .text.sleep_ms
+                0x0000000010000d5c       0x34 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010000d5c                sleep_ms
  .text.best_effort_wfe_or_timeout
-                0x0000000010000c38       0xd4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
-                0x0000000010000c38                best_effort_wfe_or_timeout
+                0x0000000010000d90       0xd4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010000d90                best_effort_wfe_or_timeout
  .text.hardware_alarm_irq_handler
-                0x0000000010000d0c       0xbc CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x0000000010000e64       0xbc CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
  .text.hardware_alarm_claim
-                0x0000000010000dc8       0x18 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x0000000010000dc8                hardware_alarm_claim
+                0x0000000010000f20       0x18 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x0000000010000f20                hardware_alarm_claim
  .text.time_us_64
-                0x0000000010000de0       0x14 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x0000000010000de0                time_us_64
+                0x0000000010000f38       0x14 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x0000000010000f38                time_us_64
+ .text.busy_wait_until
+                0x0000000010000f4c       0x20 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x0000000010000f4c                busy_wait_until
  .text.hardware_alarm_set_callback
-                0x0000000010000df4       0x8c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x0000000010000df4                hardware_alarm_set_callback
+                0x0000000010000f6c       0x8c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x0000000010000f6c                hardware_alarm_set_callback
  .text.hardware_alarm_set_target
-                0x0000000010000e80       0xd4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x0000000010000e80                hardware_alarm_set_target
+                0x0000000010000ff8       0xd4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x0000000010000ff8                hardware_alarm_set_target
  .text.hardware_alarm_cancel
-                0x0000000010000f54       0x3c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x0000000010000f54                hardware_alarm_cancel
+                0x00000000100010cc       0x3c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x00000000100010cc                hardware_alarm_cancel
  .text.ph_merge_nodes
-                0x0000000010000f90       0x68 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x0000000010001108       0x68 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_util/pheap.c.obj
  .text.ph_post_alloc_init
-                0x0000000010000ff8       0x3c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_util/pheap.c.obj
-                0x0000000010000ff8                ph_post_alloc_init
+                0x0000000010001170       0x3c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x0000000010001170                ph_post_alloc_init
  .text.ph_merge_two_pass
-                0x0000000010001034       0x90 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_util/pheap.c.obj
-                0x0000000010001034                ph_merge_two_pass
+                0x00000000100011ac       0x90 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x00000000100011ac                ph_merge_two_pass
  .text.ph_remove_any_head
-                0x00000000100010c4      0x100 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x000000001000123c      0x100 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_util/pheap.c.obj
  .text.ph_remove_head
-                0x00000000100011c4      0x104 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_util/pheap.c.obj
-                0x00000000100011c4                ph_remove_head
+                0x000000001000133c      0x104 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x000000001000133c                ph_remove_head
  .text.ph_remove_and_free_node
-                0x00000000100012c8       0x7c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_util/pheap.c.obj
-                0x00000000100012c8                ph_remove_and_free_node
+                0x0000000010001440       0x7c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x0000000010001440                ph_remove_and_free_node
  .text.clocks_init
-                0x0000000010001344      0x2d0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
-                0x0000000010001344                clocks_init
+                0x00000000100014bc      0x2d0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
+                0x00000000100014bc                clocks_init
  .text.pll_init
-                0x0000000010001614       0xa0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
-                0x0000000010001614                pll_init
+                0x000000001000178c       0xa0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
+                0x000000001000178c                pll_init
  .text.watchdog_start_tick
-                0x00000000100016b4       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
-                0x00000000100016b4                watchdog_start_tick
+                0x000000001000182c       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
+                0x000000001000182c                watchdog_start_tick
  .text.xosc_init
-                0x00000000100016c4       0x28 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
-                0x00000000100016c4                xosc_init
+                0x000000001000183c       0x28 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
+                0x000000001000183c                xosc_init
  .text.runtime_init
-                0x00000000100016ec       0xf0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x00000000100016ec                runtime_init
- .text._exit    0x00000000100017dc        0x4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x00000000100017dc                _exit
- .text.exit     0x00000000100017e0        0x8 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x00000000100017e0                exit
- .text.panic    0x00000000100017e8       0x30 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x00000000100017e8                panic
+                0x0000000010001864       0xf0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x0000000010001864                runtime_init
+ .text._exit    0x0000000010001954        0x4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x0000000010001954                _exit
+ .text.exit     0x0000000010001958        0x8 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x0000000010001958                exit
+ .text.panic    0x0000000010001960       0x30 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x0000000010001960                panic
  .text.hard_assertion_failure
-                0x0000000010001818        0xc CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x0000000010001818                hard_assertion_failure
+                0x0000000010001990        0xc CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x0000000010001990                hard_assertion_failure
  .text._out_char
-                0x0000000010001824       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x000000001000199c       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text.weak_raw_vprintf
-                0x0000000010001834       0x30 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
-                0x0000000010001834                weak_raw_vprintf
- .text          0x0000000010001864       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
+                0x00000000100019ac       0x30 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x00000000100019ac                weak_raw_vprintf
+ .text          0x00000000100019dc       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
  .text.rom_func_lookup
-                0x0000000010001874       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
-                0x0000000010001874                rom_func_lookup
+                0x00000000100019ec       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
+                0x00000000100019ec                rom_func_lookup
  .text.rom_data_lookup
-                0x0000000010001884       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
-                0x0000000010001884                rom_data_lookup
+                0x00000000100019fc       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
+                0x00000000100019fc                rom_data_lookup
  .text.rom_funcs_lookup
-                0x0000000010001894       0x44 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
-                0x0000000010001894                rom_funcs_lookup
+                0x0000000010001a0c       0x44 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
+                0x0000000010001a0c                rom_funcs_lookup
  .text.__wrap___aeabi_uidiv
-                0x00000000100018d8       0x4c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
-                0x00000000100018d8                __wrap___aeabi_uidiv
-                0x00000000100018d8                __wrap___aeabi_uidivmod
-                0x00000000100018d8                div_u32u32
-                0x00000000100018d8                divmod_u32u32
-                0x00000000100018e0                divmod_u32u32_unsafe
-                0x0000000010001908                divmod_u32u32_savestate
+                0x0000000010001a50       0x4c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
+                0x0000000010001a50                __wrap___aeabi_uidiv
+                0x0000000010001a50                __wrap___aeabi_uidivmod
+                0x0000000010001a50                div_u32u32
+                0x0000000010001a50                divmod_u32u32
+                0x0000000010001a58                divmod_u32u32_unsafe
+                0x0000000010001a80                divmod_u32u32_savestate
  .text.__aeabi_double_init
-                0x0000000010001924       0x94 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
-                0x0000000010001924                __aeabi_double_init
+                0x0000000010001a9c       0x94 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
+                0x0000000010001a9c                __aeabi_double_init
  .text.double_table_shim_on_use_helper
-                0x00000000100019b8       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x00000000100019b8                double_table_shim_on_use_helper
+                0x0000000010001b30       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x0000000010001b30                double_table_shim_on_use_helper
+ .text.__aeabi_lmul
+                0x0000000010001b5c       0x32 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
+                0x0000000010001b5c                __wrap___aeabi_lmul
+ *fill*         0x0000000010001b8e        0x2 
  .text.__aeabi_float_init
-                0x00000000100019e4       0x64 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
-                0x00000000100019e4                __aeabi_float_init
+                0x0000000010001b90       0x64 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
+                0x0000000010001b90                __aeabi_float_init
  .text.float_table_shim_on_use_helper
-                0x0000000010001a48       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj
-                0x0000000010001a48                float_table_shim_on_use_helper
- .text          0x0000000010001a74       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
-                0x0000000010001a74                __aeabi_mem_init
- .text.memcpy   0x0000000010001a84        0xc CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
-                0x0000000010001a84                __wrap___aeabi_memcpy
-                0x0000000010001a84                __wrap_memcpy
+                0x0000000010001bf4       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj
+                0x0000000010001bf4                float_table_shim_on_use_helper
+ .text          0x0000000010001c20       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+                0x0000000010001c20                __aeabi_mem_init
+ .text.memcpy   0x0000000010001c30        0xc CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+                0x0000000010001c30                __wrap___aeabi_memcpy
+                0x0000000010001c30                __wrap_memcpy
  .text.stdio_out_chars_no_crlf
-                0x0000000010001a90       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000000010001c3c       0x10 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
  .text.stdio_out_chars_crlf
-                0x0000000010001aa0       0xb4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000000010001c4c       0xb4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
  .text.stdio_put_string.isra.0
-                0x0000000010001b54       0xfc CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000000010001d00       0xfc CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
  .text.__wrap_putchar
-                0x0000000010001c50       0x98 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x0000000010001c50                __wrap_putchar
+                0x0000000010001dfc       0x98 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000000010001dfc                __wrap_putchar
  .text.__wrap_puts
-                0x0000000010001ce8       0x3c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x0000000010001ce8                __wrap_puts
- .text          0x0000000010001d24       0x5c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-strlen-stub.o)
-                0x0000000010001d24                strlen
+                0x0000000010001e94       0x3c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000000010001e94                __wrap_puts
+ .text          0x0000000010001ed0       0x5c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-strlen-stub.o)
+                0x0000000010001ed0                strlen
  *(.fini)
- .fini          0x0000000010001d80        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
-                0x0000000010001d80                _fini
- *fill*         0x0000000010001d84        0x4 
- .fini.__stub   0x0000000010001d88       0x30 linker stubs
+ .fini          0x0000000010001f2c        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x0000000010001f2c                _fini
+ .fini.__stub   0x0000000010001f30       0x30 linker stubs
  *crtbegin.o(.ctors)
  *crtbegin?.o(.ctors)
  *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
@@ -1666,81 +1666,81 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nof
  *(SORT_BY_NAME(.dtors.*))
  *(.dtors)
  *(.eh_frame*)
- .eh_frame      0x0000000010001db8        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
-                0x0000000010001db8                . = ALIGN (0x4)
+ .eh_frame      0x0000000010001f60        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x0000000010001f60                . = ALIGN (0x4)
 
-.glue_7         0x0000000010001db8        0x0
- .glue_7        0x0000000010001db8        0x0 linker stubs
+.glue_7         0x0000000010001f60        0x0
+ .glue_7        0x0000000010001f60        0x0 linker stubs
 
-.glue_7t        0x0000000010001db8        0x0
- .glue_7t       0x0000000010001db8        0x0 linker stubs
+.glue_7t        0x0000000010001f60        0x0
+ .glue_7t       0x0000000010001f60        0x0 linker stubs
 
-.vfp11_veneer   0x0000000010001db8        0x0
- .vfp11_veneer  0x0000000010001db8        0x0 linker stubs
+.vfp11_veneer   0x0000000010001f60        0x0
+ .vfp11_veneer  0x0000000010001f60        0x0 linker stubs
 
-.v4_bx          0x0000000010001db8        0x0
- .v4_bx         0x0000000010001db8        0x0 linker stubs
+.v4_bx          0x0000000010001f60        0x0
+ .v4_bx         0x0000000010001f60        0x0 linker stubs
 
-.iplt           0x0000000010001db8        0x0
- .iplt          0x0000000010001db8        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+.iplt           0x0000000010001f60        0x0
+ .iplt          0x0000000010001f60        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
 
-.rodata         0x0000000010001db8       0xa8
+.rodata         0x0000000010001f60       0xa8
  *(EXCLUDE_FILE(*libm.a: *libc.a:*lib_a-mem*.o *libgcc.a:) .rodata*)
  .rodata.hardware_alarm_claim.str1.4
-                0x0000000010001db8       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
- *fill*         0x0000000010001dda        0x2 
+                0x0000000010001f60       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+ *fill*         0x0000000010001f82        0x2 
  .rodata.panic.str1.4
-                0x0000000010001ddc       0x12 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
- *fill*         0x0000000010001dee        0x2 
+                0x0000000010001f84       0x12 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+ *fill*         0x0000000010001f96        0x2 
  .rodata.hard_assertion_failure.str1.4
-                0x0000000010001df0        0xc CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x0000000010001f98        0xc CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
  .rodata.str1.4
-                0x0000000010001dfc       0x3c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x0000000010001fa4       0x3c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .rodata.__bi_44
-                0x0000000010001e38        0xc CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x0000000010001fe0        0xc CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .rodata.__bi_75
-                0x0000000010001e44        0xc CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x0000000010001fec        0xc CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .rodata.__bi_81
-                0x0000000010001e50        0xc CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x0000000010001ff8        0xc CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .rodata.crlf_str.0
-                0x0000000010001e5c        0x2 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x0000000010001e60                . = ALIGN (0x4)
- *fill*         0x0000000010001e5e        0x2 
+                0x0000000010002004        0x2 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000000010002008                . = ALIGN (0x4)
+ *fill*         0x0000000010002006        0x2 
  *(SORT_BY_ALIGNMENT(SORT_BY_NAME(.flashdata*)))
-                0x0000000010001e60                . = ALIGN (0x4)
+                0x0000000010002008                . = ALIGN (0x4)
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x0000000010001e60                __exidx_start = .
+                0x0000000010002008                __exidx_start = .
 
 .ARM.exidx
  *(.ARM.exidx* .gnu.linkonce.armexidx.*)
-                0x0000000010001e60                __exidx_end = .
-                0x0000000010001e60                . = ALIGN (0x4)
-                0x0000000010001e60                __binary_info_start = .
+                0x0000000010002008                __exidx_end = .
+                0x0000000010002008                . = ALIGN (0x4)
+                0x0000000010002008                __binary_info_start = .
 
-.binary_info    0x0000000010001e60       0x1c
+.binary_info    0x0000000010002008       0x1c
  *(.binary_info.keep.*)
  .binary_info.keep.__bi_ptr22
-                0x0000000010001e60        0x4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x0000000010002008        0x4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr30
-                0x0000000010001e64        0x4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x000000001000200c        0x4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr38
-                0x0000000010001e68        0x4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x0000000010002010        0x4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr44
-                0x0000000010001e6c        0x4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x0000000010002014        0x4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr50
-                0x0000000010001e70        0x4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x0000000010002018        0x4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr75
-                0x0000000010001e74        0x4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x000000001000201c        0x4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr81
-                0x0000000010001e78        0x4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x0000000010002020        0x4 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  *(.binary_info.*)
-                0x0000000010001e7c                __binary_info_end = .
+                0x0000000010002024                __binary_info_end = .
 
-.rel.dyn        0x0000000010001e7c        0x0
- .rel.iplt      0x0000000010001e7c        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
-                0x0000000010001e7c                . = ALIGN (0x4)
+.rel.dyn        0x0000000010002024        0x0
+ .rel.iplt      0x0000000010002024        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x0000000010002024                . = ALIGN (0x4)
 
 .ram_vector_table
                 0x0000000020000000       0xc0
@@ -1749,7 +1749,7 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nof
                 0x0000000020000000       0xc0 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
                 0x0000000020000000                ram_vector_table
 
-.data           0x00000000200000c0      0x18c load address 0x0000000010001e7c
+.data           0x00000000200000c0      0x18c load address 0x0000000010002024
                 0x00000000200000c0                __data_start__ = .
  *(vtable)
  *(.time_critical*)
@@ -1823,36 +1823,36 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nof
  *(.jcr)
                 0x000000002000024c                . = ALIGN (0x4)
                 0x000000002000024c                __data_end__ = .
-                0x0000000010001e7c                __etext = LOADADDR (.data)
+                0x0000000010002024                __etext = LOADADDR (.data)
 
 .tm_clone_table
-                0x000000002000024c        0x0 load address 0x0000000010002008
+                0x000000002000024c        0x0 load address 0x00000000100021b0
  .tm_clone_table
                 0x000000002000024c        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
  .tm_clone_table
                 0x000000002000024c        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
 
-.igot.plt       0x000000002000024c        0x0 load address 0x0000000010002008
+.igot.plt       0x000000002000024c        0x0 load address 0x00000000100021b0
  .igot.plt      0x000000002000024c        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
 
 .uninitialized_data
-                0x000000002000024c        0x0 load address 0x0000000010002008
+                0x000000002000024c        0x0 load address 0x00000000100021b0
                 0x000000002000024c                . = ALIGN (0x4)
  *(.uninitialized_data*)
 
-.scratch_x      0x0000000020040000        0x0 load address 0x0000000010002008
+.scratch_x      0x0000000020040000        0x0 load address 0x00000000100021b0
                 0x0000000020040000                __scratch_x_start__ = .
  *(.scratch_x.*)
                 0x0000000020040000                . = ALIGN (0x4)
                 0x0000000020040000                __scratch_x_end__ = .
-                0x0000000010002008                __scratch_x_source__ = LOADADDR (.scratch_x)
+                0x00000000100021b0                __scratch_x_source__ = LOADADDR (.scratch_x)
 
-.scratch_y      0x0000000020041000        0x0 load address 0x0000000010002008
+.scratch_y      0x0000000020041000        0x0 load address 0x00000000100021b0
                 0x0000000020041000                __scratch_y_start__ = .
  *(.scratch_y.*)
                 0x0000000020041000                . = ALIGN (0x4)
                 0x0000000020041000                __scratch_y_end__ = .
-                0x0000000010002008                __scratch_y_source__ = LOADADDR (.scratch_y)
+                0x00000000100021b0                __scratch_y_source__ = LOADADDR (.scratch_y)
 
 .bss            0x0000000020000250      0x3cc
                 0x0000000020000250                . = ALIGN (0x4)
@@ -1909,8 +1909,8 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nof
  *(.stack*)
  .stack         0x0000000020041000      0x800 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
 
-.flash_end      0x0000000010002008        0x0
-                0x0000000010002008                PROVIDE (__flash_binary_end = .)
+.flash_end      0x00000000100021b0        0x0
+                0x00000000100021b0                PROVIDE (__flash_binary_end = .)
                 0x0000000020040000                __StackLimit = (ORIGIN (RAM) + LENGTH (RAM))
                 0x0000000020041000                __StackOneTop = (ORIGIN (SCRATCH_X) + LENGTH (SCRATCH_X))
                 0x0000000020042000                __StackTop = (ORIGIN (SCRATCH_Y) + LENGTH (SCRATCH_Y))
@@ -1967,7 +1967,7 @@ LOAD CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_stdi
 LOAD CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
 LOAD CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj
 LOAD ../build/liblib_src.a
-LOAD /tmp/cc83Wx1B.o
+LOAD /tmp/ccMZjX40.o
 LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libstdc++.a
 LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libm.a
 START GROUP
@@ -1991,75 +1991,83 @@ LOAD linker stubs
  .ARM.attributes
                 0x000000000000001e       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
  .ARM.attributes
-                0x000000000000004a       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
+                0x000000000000004a       0x2c CMakeFiles/main.dir/main.c.obj
  .ARM.attributes
-                0x0000000000000076       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
+                0x0000000000000076       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
  .ARM.attributes
-                0x00000000000000a2       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+                0x00000000000000a2       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
  .ARM.attributes
-                0x00000000000000ce       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x00000000000000ce       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
  .ARM.attributes
-                0x00000000000000fa       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj
+                0x00000000000000fa       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
  .ARM.attributes
-                0x000000000000011c       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_sync/lock_core.c.obj
+                0x0000000000000126       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
  .ARM.attributes
-                0x0000000000000148       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_sync/mutex.c.obj
+                0x0000000000000152       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj
  .ARM.attributes
-                0x0000000000000174       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000000000174       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_sync/lock_core.c.obj
  .ARM.attributes
-                0x00000000000001a0       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x00000000000001a0       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_sync/mutex.c.obj
  .ARM.attributes
-                0x00000000000001cc       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x00000000000001cc       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_time/time.c.obj
  .ARM.attributes
-                0x00000000000001f8       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
+                0x00000000000001f8       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
  .ARM.attributes
-                0x0000000000000224       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
+                0x0000000000000224       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/common/pico_util/pheap.c.obj
  .ARM.attributes
-                0x0000000000000250       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
+                0x0000000000000250       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
  .ARM.attributes
-                0x000000000000027c       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
+                0x000000000000027c       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
  .ARM.attributes
-                0x00000000000002a8       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x00000000000002a8       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
  .ARM.attributes
-                0x00000000000002d4       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x00000000000002d4       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
  .ARM.attributes
-                0x0000000000000300       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
+                0x0000000000000300       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
  .ARM.attributes
-                0x0000000000000322       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
+                0x000000000000032c       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .ARM.attributes
-                0x000000000000034e       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
+                0x0000000000000358       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
  .ARM.attributes
-                0x0000000000000370       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x000000000000037a       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
  .ARM.attributes
-                0x0000000000000392       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
+                0x00000000000003a6       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
  .ARM.attributes
-                0x00000000000003be       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x00000000000003c8       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
  .ARM.attributes
-                0x00000000000003e0       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
+                0x00000000000003ea       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
  .ARM.attributes
-                0x0000000000000402       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
+                0x0000000000000416       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
  .ARM.attributes
-                0x000000000000042e       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj
+                0x0000000000000438       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
  .ARM.attributes
-                0x0000000000000450       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+                0x000000000000045a       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
  .ARM.attributes
-                0x0000000000000472       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
+                0x000000000000047c       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
  .ARM.attributes
-                0x0000000000000494       0x32 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x00000000000004a8       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj
  .ARM.attributes
-                0x00000000000004c6       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x00000000000004ca       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
  .ARM.attributes
-                0x00000000000004f2       0x22 /tmp/cc83Wx1B.o
+                0x00000000000004ec       0x22 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
  .ARM.attributes
-                0x0000000000000514       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+                0x000000000000050e       0x32 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .ARM.attributes
-                0x0000000000000532       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-strlen-stub.o)
+                0x0000000000000540       0x2c CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
  .ARM.attributes
-                0x000000000000055e       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+                0x000000000000056c       0x22 /tmp/ccMZjX40.o
+ .ARM.attributes
+                0x000000000000058e       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000000005ac       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x00000000000005d8       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
 
 .comment        0x0000000000000000       0x33
  .comment       0x0000000000000000       0x33 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
                                          0x34 (size before relaxing)
+ .comment       0x0000000000000033       0x34 CMakeFiles/main.dir/main.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
  .comment       0x0000000000000033       0x34 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
  .comment       0x0000000000000033       0x34 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
  .comment       0x0000000000000033       0x34 CMakeFiles/main.dir/home/duya25446/rp2040/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
