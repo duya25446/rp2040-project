@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "author": "Anonymous maker",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "wokwi-pi-pico",
+      "id": "pico",
+      "top": 0,
+      "left": 0,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-logic-analyzer",
+      "id": "logic1",
+      "top": -28.45,
+      "left": 124.8,
+      "attrs": {}
+    }
+  ],
+  "connections": [
+    [
+      "pico:GP0",
+      "$serialMonitor:RX",
+      "",
+      []
+    ],
+    [
+      "pico:GP1",
+      "$serialMonitor:TX",
+      "",
+      []
+    ],
+    [
+      "logic1:D0",
+      "pico:GP0",
+      "green",
+      [
+        "h0"
+      ]
+    ],
+    [
+      "logic1:D1",
+      "pico:GP1",
+      "green",
+      [
+        "h0"
+      ]
+    ],
+    [
+      "logic1:D2",
+      "pico:GP2",
+      "green",
+      [
+        "h0"
+      ]
+    ],
+    [
+      "logic1:D3",
+      "pico:GP3",
+      "green",
+      [
+        "h0"
+      ]
+    ],
+    [
+      "logic1:D4",
+      "pico:GP4",
+      "green",
+      [
+        "h0"
+      ]
+    ],
+    [
+      "logic1:D5",
+      "pico:GP5",
+      "green",
+      [
+        "h0"
+      ]
+    ],
+    [
+      "logic1:D6",
+      "pico:GP6",
+      "green",
+      [
+        "h0"
+      ]
+    ],
+    [
+      "logic1:D7",
+      "pico:GP7",
+      "green",
+      [
+        "h0"
+      ]
+    ],
+    [
+      "logic1:GND",
+      "pico:GND.8",
+      "black",
+      [
+        "h0"
+      ]
+    ]
+  ],
+  "dependencies": {}
+}
