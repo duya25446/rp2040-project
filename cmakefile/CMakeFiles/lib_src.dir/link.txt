@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc ../build/liblib_src.a CMakeFiles/lib_src.dir/lib/src/test.c.obj
+/usr/bin/arm-none-eabi-ranlib ../build/liblib_src.a
