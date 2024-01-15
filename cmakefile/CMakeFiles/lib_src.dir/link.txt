@@ -1,2 +1,2 @@
-/usr/bin/arm-none-eabi-ar qc ../build/liblib_src.a CMakeFiles/lib_src.dir/lib/src/test.c.obj
-/usr/bin/arm-none-eabi-ranlib ../build/liblib_src.a
+/usr/bin/arm-none-eabi-ar qc /home/duya25446/workspace/rp2040-project/build/liblib_src.a CMakeFiles/lib_src.dir/lib/src/lcd.c.obj CMakeFiles/lib_src.dir/lib/src/lcd_init.c.obj CMakeFiles/lib_src.dir/lib/src/test.c.obj
+/usr/bin/arm-none-eabi-ranlib /home/duya25446/workspace/rp2040-project/build/liblib_src.a

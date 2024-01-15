@@ -1,3 +1,3 @@
 file(REMOVE_RECURSE
-  "../build/liblib_src.a"
+  "/home/duya25446/workspace/rp2040-project/build/liblib_src.a"
 )

@@ -1,6 +1,10 @@
 file(REMOVE_RECURSE
-  "../build/liblib_src.a"
-  "../build/liblib_src.pdb"
+  "/home/duya25446/workspace/rp2040-project/build/liblib_src.a"
+  "/home/duya25446/workspace/rp2040-project/build/liblib_src.pdb"
+  "CMakeFiles/lib_src.dir/lib/src/lcd.c.obj"
+  "CMakeFiles/lib_src.dir/lib/src/lcd.c.obj.d"
+  "CMakeFiles/lib_src.dir/lib/src/lcd_init.c.obj"
+  "CMakeFiles/lib_src.dir/lib/src/lcd_init.c.obj.d"
   "CMakeFiles/lib_src.dir/lib/src/test.c.obj"
   "CMakeFiles/lib_src.dir/lib/src/test.c.obj.d"
 )

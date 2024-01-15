@@ -1,4 +1,4 @@
-# Install script for directory: /home/duya25446/rp2040/pico-sdk
+# Install script for directory: /home/duya25446/workspace/pico-sdk
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,9 +39,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/duya25446/rp2040/rp2040-project/build/pico-sdk/tools/cmake_install.cmake")
-  include("/home/duya25446/rp2040/rp2040-project/build/pico-sdk/src/cmake_install.cmake")
-  include("/home/duya25446/rp2040/rp2040-project/build/pico-sdk/docs/cmake_install.cmake")
+  include("/home/duya25446/workspace/rp2040-project/build/pico-sdk/tools/cmake_install.cmake")
+  include("/home/duya25446/workspace/rp2040-project/build/pico-sdk/src/cmake_install.cmake")
+  include("/home/duya25446/workspace/rp2040-project/build/pico-sdk/docs/cmake_install.cmake")
 
 endif()
 

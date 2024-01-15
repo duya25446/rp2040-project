@@ -1,4 +1,4 @@
-# Install script for directory: /home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_async_context
+# Install script for directory: /home/duya25446/workspace/pico-sdk/src/rp2_common/pico_async_context
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

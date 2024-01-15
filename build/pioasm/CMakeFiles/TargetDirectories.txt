@@ -1,0 +1,3 @@
+/home/duya25446/workspace/rp2040-project/build/pioasm/CMakeFiles/pioasm.dir
+/home/duya25446/workspace/rp2040-project/build/pioasm/CMakeFiles/edit_cache.dir
+/home/duya25446/workspace/rp2040-project/build/pioasm/CMakeFiles/rebuild_cache.dir

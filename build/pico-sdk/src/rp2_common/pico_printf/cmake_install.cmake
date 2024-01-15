@@ -1,4 +1,4 @@
-# Install script for directory: /home/duya25446/rp2040/pico-sdk/src/rp2_common/pico_printf
+# Install script for directory: /home/duya25446/workspace/pico-sdk/src/rp2_common/pico_printf
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
